@@ -1,0 +1,3 @@
+[workspace]
+title = "TestMCPProj"
+packages = ["mcptest"]
